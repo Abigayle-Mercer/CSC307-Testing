@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "CSC307-Test",
+    "slug": "CSC307-Test"
+  }
+}
